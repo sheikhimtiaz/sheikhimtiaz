@@ -1,4 +1,9 @@
-### Hi there 👋
+<!-- ### Hi there 👋
+-->
+
+```
+C/C++, C#, JavaScript, Python, Scala, Dart, Java, Erlang-Elixir, Rust, Go
+```
 
 <!--
 **sheikhimtiaz/sheikhimtiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
