@@ -2,7 +2,7 @@
 -->
 
 ```
-C/C++, C#, JavaScript, Python, Scala, Dart, Java, Erlang-Elixir, Rust, Go
+C/C++, C#, JavaScript, Python, Scala, Java, Dart, Erlang-Elixir, Rust, Go
 ```
 
 <!--
