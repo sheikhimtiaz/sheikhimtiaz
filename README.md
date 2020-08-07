@@ -3,6 +3,7 @@
 
 ```
 C/C++, C#, JavaScript, Python, Scala, Java, Dart, Erlang-Elixir, Rust, Go
+I name the know of these programming languges 😄 
 ```
 
 <!--
