@@ -2,7 +2,7 @@
 -->
 
 ```
-C, C++, Go, C#, F#, JavaScript, Python, Java, Scala
+C, C++, Go, Java, Scala, C#, F#, JavaScript, Python
 I name the know of these programming languges 😄 
 ```
 
