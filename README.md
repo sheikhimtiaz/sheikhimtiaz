@@ -2,8 +2,8 @@
 -->
 
 ```
-C, C++, Go, Java, Scala, C#, F#, JavaScript, Python
-I name the know of these programming languges 😄 
+C, C++, Java, Scala, C#, F#, JavaScript, Typescript, Solidity, Python, R, Go, Rust, Ruby
+I knwo the name of these programming languges 😄 
 ```
 
 <!--
