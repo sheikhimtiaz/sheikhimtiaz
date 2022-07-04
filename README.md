@@ -2,7 +2,7 @@
 -->
 
 ```
-C, C++, Java, Scala, C#, F#, JavaScript, Typescript, Solidity, Python, R, Go, Rust, Ruby
+C, C++, Java, Scala, C#, F#, JavaScript, Typescript, Solidity, Go, Dart, Rust, Assembly, Kotlin, Swift, Ruby, Lisp, Erlang, Elixir, Smalltalk, Pony, Julia, Python, R, Unison, Wasp, Enso, Groot, Rockstar, Brainfuck. 
 I knwo the name of these programming languges 😄 
 ```
 
